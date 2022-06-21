@@ -2,6 +2,8 @@
   <b-container>
     <b-form-input v-model="group.name" placeholder="Enter group name"></b-form-input>
   <b-button variant="success" @click="group_create">Create Group</b-button>
+
+  Test modif !!!
 </b-container>
 </template>
 
